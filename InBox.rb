@@ -16,12 +16,6 @@
 =begin
   "InBox ~~ A Box of Tools for Destroying Inboxes"
 
-  This isn't your backdoored vbscript skiddie shit. It requires
-  a webserver so don't think you can just run the script
-  and start attacking. I could setup a public webserver for
-  people to use but I'm trying to repel skidds, not make it
-  easy for them.
-
   Note: This is a spin off of my program LightDaFuse but this has more
   features and is more compact. I'm compacting this entire project into
   one single file for ease of use.
@@ -38,8 +32,8 @@
   | Programming Language:   | Ruby                                      |
   +-------------------------+-------------------------------------------+
   | Reason:                 | To be an easy, compact, safe and reliable |
-  |                         | email attack program. Not you VBScript    |
-  |                         | skiddie shit.                             |
+  |                         | email attack program.                     |
+  |                         |                                           |
   +-------------------------+-------------------------------------------+
 =end
 
